@@ -1,0 +1,5 @@
+There are some steps you need to follow to run the code.
+1. First of all, you have to connect all the servo on the pi hat in order(you could find it in script.py)
+2. You should install python, adafruit, pyside6, pyqt5 properly,include all the dependencies.
+3. Run Gui.py,then click the button of all the movement you want
+4. For the camera you could follow the file stream.py,after click ShowVedio button from last step.

@@ -1,0 +1,9 @@
+This is an open source, you could change it whatever you want.
+This is an unfinished code , so I will keep updating it.
+The set_up way is same as spider_code_hc, so you can check that Readme.
+For different size of your robot you need to change the variables in config.py
+There is a picture to show how I calculate the inverse_kinematic.
+To run this code :
+1.You have to open running.py
+2.Change the different movement_mode into loop function.
+3.Run it.
